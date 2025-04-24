@@ -1,0 +1,2 @@
+# StamiWare
+Totally Not Ransomeware
